@@ -1,0 +1,11 @@
+{
+  "compass": {
+    "ip": "localhost"
+  },
+  "passive": {
+    "ip": "localhost"
+  },
+  "active": {
+    "ip": "localhost"
+  }
+}

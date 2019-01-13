@@ -1,0 +1,32 @@
+{
+  "name": "platooning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.8",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dgram": "^1.0.1",
+    "express": "^4.16.4",
+    "iota.lib.js": "^0.5.1",
+    "request": "^2.88.0",
+    "serialport": "^7.1.3",
+    "trytes": "^1.3.2",
+    "zeromq": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthiasBabel/platooning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthiasBabel/platooning/issues"
+  },
+  "homepage": "https://github.com/MatthiasBabel/platooning#readme"
+}
