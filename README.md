@@ -5,7 +5,7 @@ Dabei wird aufgezeigt wie Transaktionen zur Kompensation des ersten Fahrzeugs au
 In diesem Repository befindet sich Arduino Code um die selbst gebauten Autos autonom fahren zu lassen. Zudem behinhält es NodeJs Code, der das Platooning startet und stoppt und mit dem IOTA Tangle kommuniziert, auf Transaktionen höhrt und Transaktionen sendet.
 
 ## Screenshots
-Include logo/demo screenshot etc.
+![alt text](https://raw.githubusercontent.com/MatthiasBabel/mobi/blob/master/screenshot.png)
 
 ## Features
 What makes your project stand out?
