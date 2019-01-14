@@ -51,7 +51,7 @@ For simplicity you control both participants
 
 ## Authors
 
-* **Nicolas Ruhland** - *Arduino* - [longarmjonny](https://github.com/longarmjonny)
+* **Nicolas Ruhland** - *Arduino* - [langarmjonny](https://github.com/langarmjonny)
 
 * **Jonas Brügmann** - *mental support* - [JB-Bruegmann](https://github.com/JB-Bruegmann)
 
