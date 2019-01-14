@@ -1,8 +1,9 @@
-## Mobi
-Dieses Repository zeigt die Möglichkeit der Anwendung der Blockchain-Technologie im Rahmen eines PKW-Platoonings.
-Dabei wird aufgezeigt wie Transaktionen zur Kompensation des ersten Fahrzeugs automatisch über den IOTA Tangle ausgeführt werden. Zusätzlich wird aufgrund der Nachvollziehbarkeit und Transparenz der aktuelle Status des Platooning in den Tangle geschrieben. Dies haben wir zur besseren Veranschaulichung auf selbst gebauten autonom fahrenden Autos implementiert, die auf einem definierten Kurs platoonen und Transaktionen über den IOTA Tangle austauschen.
+# Mobi
+This repository shows the possibility of using blockchain technology in the context of a car platooning.
+It shows how to perform transactions to compensate the first vehicle automatically via the IOTA Tangle. In addition, the current status of the platooning is written to the tangle due to its traceability and transparency. For better illustration, we have implemented this on self-constructed autonomously driving cars that platoons on a defined course and exchange transactions via the IOTA tangle.
 
-In diesem Repository befindet sich Arduino Code um die selbst gebauten Autos autonom fahren zu lassen. Zudem behinhält es NodeJs Code, der das Platooning startet und stoppt und mit dem IOTA Tangle kommuniziert, auf Transaktionen höhrt und Transaktionen sendet.
+In this repository there is Arduino code to let the self-built cars drive autonomously. It also contains NodeJ's code, which manages the platooning and communicates with the IOTA Tangle, listens for transactions and sends transactions.
+
 
 ## Screenshots
 ![alt text](screenshot.png)
@@ -48,6 +49,11 @@ $ ng serve
 Now you are able to simulate the platooning payments on your browser.
 For simplicity you control both participants
 
+## Authors
 
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contributed in this project.
+* **Nicolas Ruhland** - *Arduino* - [langarmjonny](https://github.com/langarmjonny)
+
+* **Jonas Brügmann** - *mental support* - [JB-Bruegmann](https://github.com/JB-Bruegmann)
+
+* **Matthias Babel** - *Everything else* - [MatthiasBabel](https://github.com/matthiasbabel)
+
