@@ -16,26 +16,37 @@ Show what the library does as concisely as possible, developers should be able t
 ## Installation
 1. Install Compass from https://github.com/iotaledger/compass
 2. Open all remote options of IRI set PORT to 14265, enable ZMQ and set the ZMQ_PORT to 5555
-3.
-
+3. Install Angular-CLI  
+  ```
+  npm i @angular/cli
+  ```
+4. Setup and install
 ```
-  clone https://github.com/MatthiasBabel/mobi
-  cd mobi
+$ clone https://github.com/MatthiasBabel/mobi
+$ cd mobi
+$ npm install
+$ cd frontend
+$ npm install
+$ cd ..
+$ nano src/config.json
+```
+5. Configure IPs
+If you run both platooning participants on one device use 127.0.0.1
+```
+$ nano src/config.json
+$ nano frontend/src/app/site/config.json
 ```
 
-## API Reference
+## Run it
+```
+$ node src/passivePlatooning.js
+$ node src/activePlatooning.js
+$ cd frontend
+$ ng serve
+```
+Now you are able to simulate the platooning payments on your browser.
+For simplicity you control both participants
 
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-Describe and show how to run the tests with code examples.
-
-## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
-
-## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
 
 ## Credits
 Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.
