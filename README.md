@@ -49,6 +49,8 @@ $ ng serve
 Now you are able to simulate the platooning payments on your browser.
 For simplicity you control both participants
 
+## Authors
 
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contributed in this project.
+* **Nicolas Ruhland** - *Arduino* - [PurpleBooth](https://github.com/longarmjonny)
+
+* **Matthias Babel** - *Arduino* - [PurpleBooth](https://github.com/matthiasbabel)
