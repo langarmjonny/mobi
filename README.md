@@ -5,13 +5,7 @@ Dabei wird aufgezeigt wie Transaktionen zur Kompensation des ersten Fahrzeugs au
 In diesem Repository befindet sich Arduino Code um die selbst gebauten Autos autonom fahren zu lassen. Zudem behinhält es NodeJs Code, der das Platooning startet und stoppt und mit dem IOTA Tangle kommuniziert, auf Transaktionen höhrt und Transaktionen sendet.
 
 ## Screenshots
-![alt text](https://githubusercontent.com/MatthiasBabel/mobi/blob/master/screenshot.png)
-
-## Features
-What makes your project stand out?
-
-## Code Example
-Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
+![alt text](https://raw.githubusercontent.com/MatthiasBabel/mobi/blob/master/screenshot.png)
 
 ## Installation
 1. Install Compass from https://github.com/iotaledger/compass
@@ -50,10 +44,3 @@ For simplicity you control both participants
 
 ## Credits
 Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.
-
-#### Anything else that seems useful
-
-## License
-A short snippet describing the license (MIT, Apache etc)
-
-MIT © [Yourname]()
