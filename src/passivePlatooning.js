@@ -57,6 +57,7 @@ app.get("/car", (req, res) => {
 });
 
 app.post('/commands', function(req, res, next) {
+  console.log(req.body);
     if(req.body.command == "drive") {
       drive();
       console.log("START DRVINGING");
@@ -97,8 +98,6 @@ let drive = async () => {
     res = await arduino.startVehicle();
   else {
     res = await arduino.stopVehicle();
-    stopPlatooning();
-    arduino.stopPlatooningPassive();
   }
   console.log(res);
   console.log("Driving:", driving)

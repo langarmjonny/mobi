@@ -3,9 +3,9 @@
     "ip": "localhost"
   },
   "passive": {
-    "ip": "localhost"
+    "ip": "127.0.0.1"
   },
   "active": {
-    "ip": "localhost"
+    "ip": "127.0.0.1"
   }
 }
