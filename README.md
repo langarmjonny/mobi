@@ -1,4 +1,4 @@
-## Mobi
+# Mobi
 This repository shows the possibility of using blockchain technology in the context of a car platooning.
 It shows how to perform transactions to compensate the first vehicle automatically via the IOTA Tangle. In addition, the current status of the platooning is written to the tangle due to its traceability and transparency. For better illustration, we have implemented this on self-constructed autonomously driving cars that platoons on a defined course and exchange transactions via the IOTA tangle.
 
@@ -51,6 +51,9 @@ For simplicity you control both participants
 
 ## Authors
 
-* **Nicolas Ruhland** - *Arduino* - [PurpleBooth](https://github.com/longarmjonny)
+* **Nicolas Ruhland** - *Arduino* - [longarmjonny](https://github.com/longarmjonny)
 
-* **Matthias Babel** - *Arduino* - [PurpleBooth](https://github.com/matthiasbabel)
+* **Jonas Brügmann** - *mental support* - [JB-Bruegmann](https://github.com/JB-Bruegmann)
+
+* **Matthias Babel** - *Everything else* - [MatthiasBabel](https://github.com/matthiasbabel)
+
