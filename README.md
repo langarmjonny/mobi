@@ -10,9 +10,17 @@ In diesem Repository befindet sich Arduino Code um die selbst gebauten Autos aut
 ## Installation
 1. Install Compass from https://github.com/iotaledger/compass
 2. Open all remote options of IRI set PORT to 14265, enable ZMQ and set the ZMQ_PORT to 5555
-3. Install Angular-CLI  
+3. Replace the snapshot.txt with the following line
+```
+RPP9FILTOTIVUVXTAFIZCMXABKLXFIJY9NUPC9XWWCXEIIQXBCSNS9DYTRAJJIGDVPNOABWDQDVTADBLC;2779530283277761
+```
+This allocates all token supply to seed
+```
+SEEDB9999999999999999999999999999999999999999999999999999999999999999999999999999
+```
+4. Install Angular-CLI  
   ```
-  npm i @angular/cli
+$npm i @angular/cli
   ```
 4. Setup and install
 ```
@@ -24,8 +32,7 @@ $ npm install
 $ cd ..
 $ nano src/config.json
 ```
-5. Configure IPs
-If you run both platooning participants on one device use 127.0.0.1
+5. Configure IPs if you run both platooning participants on one device use 127.0.0.1 otherwise use the respective IPs of the devices
 ```
 $ nano src/config.json
 $ nano frontend/src/app/site/config.json
@@ -43,4 +50,4 @@ For simplicity you control both participants
 
 
 ## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.
+Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contributed in this project.
