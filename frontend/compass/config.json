@@ -1,0 +1,11 @@
+{
+  "seed": "RAKIIAHKFYMLMPMCQHHUGBNPT9ZPCTZ9XDPXMDXKASDJAQNVDHWIPSFBKHKTZHCIHBHNJRZSNFKMXXBZM",
+  "powMode": "CURLP81",
+  "sigMode": "CURLP27",
+  "security": 1,
+  "depth": 12,
+  "milestoneStart": 0,
+  "mwm": 9,
+  "tick": 30000,
+  "host": "http://localhost:14265"
+}

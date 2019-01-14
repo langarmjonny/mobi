@@ -1,0 +1,9 @@
+<div id = "sketch"></div>
+<div>
+<button mat-raised-button color="primary" (click)="driveActive()"> fahrenActive </button>
+<button mat-raised-button color="primary" (click)="drivePassive()"> fahrenPassiv </button>
+<button mat-raised-button color="primary" (click)="startPlatooning()"> startPlatooning </button>
+<button mat-raised-button color="primary" (click)="stopPlatooning()"> stopPlatooning </button>
+<button mat-raised-button color="primary" [disabled]="!request" (click)="acceptPlatooning()"> acceptPlatooning </button>
+<button mat-raised-button color="primary" (click)="platoonAvai()"> available </button>
+</div>
