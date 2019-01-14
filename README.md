@@ -21,7 +21,7 @@ SEEDB999999999999999999999999999999999999999999999999999999999999999999999999999
 ```
 4. Install Angular-CLI  
   ```
-$npm i @angular/cli
+$ npm i @angular/cli
   ```
 4. Setup and install
 ```
