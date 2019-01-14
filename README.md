@@ -53,7 +53,7 @@ For simplicity you control both participants
 
 * **Nicolas Ruhland** - *Arduino* - [langarmjonny](https://github.com/langarmjonny)
 
-* **Jonas Brügmann** - *mental support* - [JB-Bruegmann](https://github.com/JB-Bruegmann)
+* **Jonas Brügmann** - *car construction* - [JB-Bruegmann](https://github.com/JB-Bruegmann)
 
 * **Matthias Babel** - *Everything else* - [MatthiasBabel](https://github.com/matthiasbabel)
 
