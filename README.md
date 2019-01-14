@@ -7,12 +7,6 @@ In diesem Repository befindet sich Arduino Code um die selbst gebauten Autos aut
 ## Screenshots
 Include logo/demo screenshot etc.
 
-## Tech/framework used
-Ex. -
-
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
-
 ## Features
 What makes your project stand out?
 
@@ -20,7 +14,14 @@ What makes your project stand out?
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
 ## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
+1. Install Compass from https://github.com/iotaledger/compass
+2. Open all remote options of IRI set PORT to 14265, enable ZMQ and set the ZMQ_PORT to 5555
+3.
+
+```
+  clone https://github.com/MatthiasBabel/mobi
+  cd mobi
+```
 
 ## API Reference
 
